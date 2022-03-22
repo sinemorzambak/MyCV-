@@ -1,0 +1,43 @@
+{
+    "Experience": [{
+            "Label": "Öğrenci Kariyeri",
+            "Date": {
+                "Start": "2021-01",
+                "End": "2021-06"
+            },
+            "Description": "Software Developer Intern",
+            "Detail": "I prepared websites using HTML, CSS, JS for career events and personal portfolio, ",
+            "ImageSrc": "https://pbs.twimg.com/media/DUZLBlhXUAEpx1g.jpg"
+        },
+        {
+            "Label": "Senkron Siber Güvenlik ve İletişim Sistemleri",
+            "Date": {
+                "Start": "2022-01",
+                "End": "Now"
+            },
+            "Description": "Software Developer",
+            "Detail": "I'm currently working on Front-End , but I've started cyber security training, I'm working on phishing and penetration tests.",
+            "ImageSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7Qwil6smnC5K9Eod2pv24rcJhr7G63O8n2W6aQA-bsv5rLVWvHnbTbajTzFEJWjRDpI0&usqp=CAU"
+        }
+    ],
+    "Education": [{
+        "Label": "Trakya Üniversitesi ",
+        "Date": {
+            "Start": "2019-09",
+            "End": "2023-08"
+        },
+        "Description": "Student",
+        "Detail": "I'm in the 3rd year of Computer Engineering.",
+        "ImageSrc": "https://upload.wikimedia.org/wikipedia/tr/thumb/1/14/Trakya_%C3%9Cniversitesi_logosu.jpg/215px-Trakya_%C3%9Cniversitesi_logosu.jpg"
+    }],
+    "Projects": [{
+        "Label": "My Personal Website",
+        "Date": {
+            "Start": "2020-08",
+            "End": "2020-09"
+        },
+        "Description": "Portfolio",
+        "Detail": "I made a site with html css js to introduce myself, thanks to it I really learned a lot.",
+        "ImageSrc": "https://avatars.githubusercontent.com/u/54941120?v=4"
+    }]
+}
