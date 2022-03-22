@@ -1,4 +1,6 @@
 ![My Image](ekran1.png)
+![My Image](ekran2.png)
+![My Image](ekran3.png)
 
 # Getting Started with Create React App
 
